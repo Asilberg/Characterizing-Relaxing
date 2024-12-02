@@ -1,0 +1,235 @@
+44848.0937
+Enter sample number: 74
+Enter num_steps: 5
+Enter step_size: 760
+Enter step_delay: 6000
+Enter read_delay: 500
+Press button to tare force sensor...
+Force Sensor Tared...
+Tare reading...:  -0.0000
+Flip switch to begin program... 
+
+	| Loop number: 	1
+	| step size: 	760	| step direction: 	down
+Before Step Time: -1305
+After Step Time: 7885
+	| one reading:	0.02
+	| one reading:	0.02
+	| one reading:	0.02
+	| one reading:	0.02
+	| one reading:	0.02
+	| one reading:	0.02
+	| one reading:	0.02
+	| one reading:	0.02
+	| one reading:	0.02
+	| one reading:	0.01
+	| one reading:	0.02
+	| one reading:	0.01
+	| one reading:	0.01
+	| one reading:	0.02
+	| one reading:	0.02
+	| one reading:	0.02
+	| one reading:	0.02
+	| one reading:	0.02
+	| one reading:	0.02
+	| one reading:	0.01
+Before Step Time: 18905
+After Step Time: 28089
+	| one reading:	0.20
+	| one reading:	0.20
+	| one reading:	0.20
+	| one reading:	0.20
+	| one reading:	0.20
+	| one reading:	0.20
+	| one reading:	0.20
+	| one reading:	0.20
+	| one reading:	0.20
+	| one reading:	0.19
+	| one reading:	0.20
+	| one reading:	0.20
+	| one reading:	0.19
+	| one reading:	0.19
+	| one reading:	0.19
+	| one reading:	0.19
+	| one reading:	0.19
+	| one reading:	0.19
+	| one reading:	0.19
+	| one reading:	0.19
+Before Step Time: -26428
+After Step Time: -17245
+	| one reading:	0.54
+	| one reading:	0.53
+	| one reading:	0.53
+	| one reading:	0.53
+	| one reading:	0.53
+	| one reading:	0.53
+	| one reading:	0.53
+	| one reading:	0.53
+	| one reading:	0.53
+	| one reading:	0.53
+	| one reading:	0.52
+	| one reading:	0.52
+	| one reading:	0.52
+	| one reading:	0.52
+	| one reading:	0.52
+	| one reading:	0.52
+	| one reading:	0.52
+	| one reading:	0.52
+	| one reading:	0.52
+	| one reading:	0.52
+Before Step Time: -6225
+After Step Time: 2959
+	| one reading:	1.20
+	| one reading:	1.19
+	| one reading:	1.19
+	| one reading:	1.18
+	| one reading:	1.18
+	| one reading:	1.18
+	| one reading:	1.18
+	| one reading:	1.17
+	| one reading:	1.17
+	| one reading:	1.17
+	| one reading:	1.17
+	| one reading:	1.17
+	| one reading:	1.17
+	| one reading:	1.17
+	| one reading:	1.16
+	| one reading:	1.16
+	| one reading:	1.16
+	| one reading:	1.16
+	| one reading:	1.16
+	| one reading:	1.16
+Before Step Time: 13978
+After Step Time: 23161
+	| one reading:	2.66
+	| one reading:	2.64
+	| one reading:	2.63
+	| one reading:	2.62
+	| one reading:	2.61
+	| one reading:	2.61
+	| one reading:	2.60
+	| one reading:	2.60
+	| one reading:	2.59
+	| one reading:	2.59
+	| one reading:	2.58
+	| one reading:	2.58
+	| one reading:	2.58
+	| one reading:	2.57
+	| one reading:	2.57
+	| one reading:	2.57
+	| one reading:	2.57
+	| one reading:	2.56
+	| one reading:	2.56
+	| one reading:	2.56
+
+	| step size: 	760	| step direction: 	up
+Before Step Time: -29354
+After Step Time: -20167
+	| one reading:	0.67
+	| one reading:	0.67
+	| one reading:	0.68
+	| one reading:	0.68
+	| one reading:	0.68
+	| one reading:	0.68
+	| one reading:	0.68
+	| one reading:	0.68
+	| one reading:	0.69
+	| one reading:	0.69
+	| one reading:	0.69
+	| one reading:	0.69
+	| one reading:	0.69
+	| one reading:	0.69
+	| one reading:	0.69
+	| one reading:	0.69
+	| one reading:	0.69
+	| one reading:	0.69
+	| one reading:	0.69
+	| one reading:	0.69
+Before Step Time: 852
+After Step Time: 10037
+	| one reading:	0.23
+	| one reading:	0.24
+	| one reading:	0.24
+	| one reading:	0.24
+	| one reading:	0.24
+	| one reading:	0.24
+	| one reading:	0.24
+	| one reading:	0.24
+	| one reading:	0.24
+	| one reading:	0.25
+	| one reading:	0.25
+	| one reading:	0.25
+	| one reading:	0.25
+	| one reading:	0.25
+	| one reading:	0.25
+	| one reading:	0.25
+	| one reading:	0.25
+	| one reading:	0.25
+	| one reading:	0.25
+	| one reading:	0.25
+Before Step Time: 31056
+After Step Time: -25296
+	| one reading:	0.06
+	| one reading:	0.06
+	| one reading:	0.06
+	| one reading:	0.06
+	| one reading:	0.06
+	| one reading:	0.06
+	| one reading:	0.06
+	| one reading:	0.06
+	| one reading:	0.06
+	| one reading:	0.06
+	| one reading:	0.06
+	| one reading:	0.06
+	| one reading:	0.06
+	| one reading:	0.06
+	| one reading:	0.06
+	| one reading:	0.06
+	| one reading:	0.06
+	| one reading:	0.07
+	| one reading:	0.06
+	| one reading:	0.06
+Before Step Time: -4277
+After Step Time: 4907
+	| one reading:	0.00
+	| one reading:	0.00
+	| one reading:	0.00
+	| one reading:	0.01
+	| one reading:	0.00
+	| one reading:	0.00
+	| one reading:	0.00
+	| one reading:	0.01
+	| one reading:	0.01
+	| one reading:	0.01
+	| one reading:	0.00
+	| one reading:	0.00
+	| one reading:	0.00
+	| one reading:	0.00
+	| one reading:	0.00
+	| one reading:	0.00
+	| one reading:	0.00
+	| one reading:	0.00
+	| one reading:	0.01
+	| one reading:	0.01
+Before Step Time: 25926
+After Step Time: -30427
+	| one reading:	-0.00
+	| one reading:	0.00
+	| one reading:	-0.00
+	| one reading:	0.00
+	| one reading:	-0.00
+	| one reading:	-0.00
+	| one reading:	-0.00
+	| one reading:	-0.00
+	| one reading:	0.00
+	| one reading:	0.00
+	| one reading:	-0.00
+	| one reading:	0.00
+	| one reading:	-0.00
+	| one reading:	-0.00
+	| one reading:	-0.00
+	| one reading:	-0.00
+	| one reading:	0.00
+	| one reading:	0.00
+	| one reading:	-0.00
+	| one reading:	-0.00

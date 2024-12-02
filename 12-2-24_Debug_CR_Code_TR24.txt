@@ -1,0 +1,77 @@
+44848.0937
+Enter sample number: 74
+Enter num_steps: 5
+Enter step_size: 760
+Enter step_delay: 6000
+Enter read_delay: 500
+Press button to tare force sensor...
+Force Sensor Tared...
+Tare reading...:  0.0004
+Flip switch to begin program... 
+
+	| Loop number: 	1
+	| step size: 	760	| step direction: 	down
+Before Step Time: 14140
+After Step Time: 23330
+	| one reading:	0.02
+	| one reading:	0.02
+	| one reading:	0.02
+	| one reading:	0.02
+	| one reading:	0.02
+	| one reading:	0.02
+	| one reading:	0.02
+	| one reading:	0.02
+	| one reading:	0.02
+	| one reading:	0.01
+Before Step Time: 29340
+After Step Time: -27012
+	| one reading:	0.19
+	| one reading:	0.19
+	| one reading:	0.19
+	| one reading:	0.18
+	| one reading:	0.19
+	| one reading:	0.18
+	| one reading:	0.18
+	| one reading:	0.18
+	| one reading:	0.18
+	| one reading:	0.18
+Before Step Time: -21002
+After Step Time: -11818
+	| one reading:	0.52
+	| one reading:	0.52
+	| one reading:	0.51
+	| one reading:	0.51
+	| one reading:	0.51
+	| one reading:	0.51
+	| one reading:	0.51
+	| one reading:	0.51
+	| one reading:	0.51
+	| one reading:	0.51
+Before Step Time: -5808
+After Step Time: 3376
+	| one reading:	1.17
+	| one reading:	1.16
+	| one reading:	1.16
+	| one reading:	1.15
+	| one reading:	1.15
+	| one reading:	1.15
+	| one reading:	1.15
+	| one reading:	1.14
+	| one reading:	1.14
+	| one reading:	1.14
+Before Step Time: 9385
+After Step Time: 18569
+	| one reading:	2.62
+	| one reading:	2.60
+	| one reading:	2.59
+	| one reading:	2.58
+	| one reading:	2.58
+	| one reading:	2.57
+	| one reading:	2.57
+	| one reading:	2.56
+	| one reading:	2.56
+	| one reading:	2.56
+
+	| step size: 	760	| step direction: 	up
+Before Step Time: 26579
+After Step Time: -29770
